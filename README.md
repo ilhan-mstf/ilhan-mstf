@@ -5,7 +5,7 @@ Software Engineer | Visual Artist | Open Source Contributor
 ### 👨‍💻 About Me
 - 🐢 Currently working as a **Staff Software Engineer** at **Celonis**.
 - 📍 Based in **Munich**.
-- 🎓 Alumnus of **Bilkent University and ODTÜ**.
+- 🎓 Alumnus of **Bilkent University** and **ODTÜ**.
 
 ### 🚀 Highlighted Projects
 - **[omnitool](https://github.com/ilhan-mstf/omnitool):** The high-performance, native, and privacy-first developer powerhouse.
