@@ -1,6 +1,12 @@
 # Hi there, I'm Mustafa İlhan 👋
-
-Software Engineer | Visual Artist | Open Source Contributor
+<pre>
+    ◯───◯
+    │   │
+    ◯───◯───●
+        │
+        ◯
+   Engineer & Artist
+</pre>
 
 ### 👨‍💻 About Me
 - 🐢 Currently working as a **Staff Software Engineer** at **Celonis**.
