@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mustafa İlhan 👋
 
-<!--
-**ilhan-mstf/ilhan-mstf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Visual Artist | Open Source Contributor
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🐢 Currently working as a **Staff Software Engineer** at **Celonis**.
+- 📍 Based in **Munich**.
+- 🎓 Alumnus of **Bilkent University and ODTÜ**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlighted Projects
+- **[tt-history](https://github.com/ilhan-mstf/tt-history):** A Python-based system that tracks and analyzes Twitter Trending Topics over time.
+- **[colorize_cloudwatch_logs](https://github.com/ilhan-mstf/colorize_cloudwatch_logs):** A popular Chrome extension to make AWS CloudWatch logs more readable.
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mustafailhan/)
+
+---
+"Art is the stored stats of a soul."
