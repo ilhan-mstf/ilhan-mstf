@@ -20,6 +20,7 @@
 
 ### 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mustafailhan/)
+- 🖋️ [Blog](https://thisismustafailhan.substack.com/)
 
 ---
 "Art is the stored stats of a soul."
